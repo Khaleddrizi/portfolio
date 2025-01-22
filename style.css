@@ -31,7 +31,7 @@ header{
     padding-left: 30px;
 }
 .navigation a:hover{
-    color: rgb(126, 250, 44);
+    color: rgb(16, 124, 248);
 }
 section{
     padding: 100px 100px;
@@ -244,6 +244,9 @@ section{
     }
     .main-content h3 {
         font-size: 1.4em;
+    }
+        .social-icons{
+        margin-left: 20px;
     }
 }
 @media(max-width:400px){
